@@ -1,4 +1,5 @@
 Reactjs starter template
+========
 
 This is minimal template that can be used in order to quickly prototype web application using reactjs and ES6.
 
