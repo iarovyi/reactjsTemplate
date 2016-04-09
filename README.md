@@ -5,9 +5,11 @@ This is minimal template that can be used in order to quickly prototype web appl
 
 SET UP ENVIROMENT:
 1) install nodejs
-2) cd ....reactjsTemplate
-3) npm install
-4) "gulp build" or "gulp watch"
+2) run cmd as admin
+3) cd ....reactjsTemplate
+4) npm install
+5) npm install --g gulp
+6) "gulp build" or "gulp watch"
 
 
 Recreate package.json file
