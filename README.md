@@ -18,3 +18,5 @@ Recreate package.json file
 5) npm install --save react
 6) npm install --save gulp
 7) npm install --save browserify babelify vinyl-source-stream babel-preset-es2015 babel-preset-react
+
+My change
